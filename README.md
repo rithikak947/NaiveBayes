@@ -1,4 +1,4 @@
-#   Car Insurance Claim Prediction using Naïve Bayes Algorithm
+#   Car Insurance Claim Prediction using Naive Bayes Algorithm
 
 In this repository, I implemented the Naive Bayes classifier to predict whether a customer will file a car insurance claim based on various features such as credit score, annual mileage, vehicle age, and more.
 
